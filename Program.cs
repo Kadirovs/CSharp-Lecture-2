@@ -180,7 +180,23 @@ for (int i = 0; i < number.Length; i++)
     total += number[i]; 
 }
 
-Console.WriteLine(total);*/
+Console.WriteLine(total);
 
+}*/
 }
-}
+/*Student ahmad = new Student();
+ahmad.FirstName = "Ahmad";
+ahmad.LastName = "Ahmadov";
+ahmad.Age=16;
+ahmad.Grades= new double [] {55,66,77,88,88};
+
+Student kamol = new Student();
+kamol.FirstName = "Kamoliddin";
+kamol.LastName = "Kadirov";
+kamol.Age=16;
+kamol.Grades= new double [] {55,66,77,88,88};
+
+Console.WriteLine($"{ahmad.GetFullName()}:{ahmad.GetAverageGrade()}");
+Console.WriteLine($"{kamol.GetFullName()}:{kamol.GetAverageGrade()}");*/
+
+
